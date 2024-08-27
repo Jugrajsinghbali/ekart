@@ -12,6 +12,6 @@
 
 ## WebView/Screenshots
 
-![Home Page](screenshot1.png)
+![Home Page](Screenshot1.png)
 
 
